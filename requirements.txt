@@ -7,4 +7,4 @@ requests
 pytz
 numpy<2.0
 setuptools
-wheels
+wheel
