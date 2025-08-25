@@ -5,3 +5,4 @@ pandas_ta
 plotly
 requests
 pytz
+numpy<2.0
